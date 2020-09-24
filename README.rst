@@ -1,5 +1,6 @@
-.. image:: docs/img/orbit-icon.png
-    :width: 100
+.. raw:: html
+
+    <img src="https://https://github.com/uber/orbit/blob/read-me-fix/docs/img/orbit-icon.png" height="400px">
 
 
 
