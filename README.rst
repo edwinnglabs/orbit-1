@@ -1,4 +1,4 @@
-.. image:: docs/img/orbit-icon.png
+.. image:: docs/img/orbit.png
     :width: 200px
     :height: 100px
     :scale: 50 %
