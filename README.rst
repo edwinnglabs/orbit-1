@@ -1,6 +1,8 @@
-.. raw:: html
-
-    <img src="https://https://github.com/uber/orbit/blob/read-me-fix/docs/img/orbit-icon.png" height="400px">
+.. image:: docs/img/orbit-icon.png
+    :width: 200px
+    :height: 100px
+    :scale: 50 %
+    :align: center
 
 
 
